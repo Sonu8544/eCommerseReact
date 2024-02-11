@@ -1,0 +1,16 @@
+.card-img{
+    max-height: 70vh;
+}
+
+#mainContainer {
+    color: black;
+
+    p{
+        font-weight: 400;
+        font-size: 0.9rem
+    }
+
+    h5{
+        font-weight: 500;
+    }
+}
